@@ -1,0 +1,6 @@
+{
+  "name": "하루한잔 생식 - 국내산 50가지 곡물 채소 한끼",
+  "description": "국내산 50가지 자연 곡물과 채소로 채운 정직하고 간편한 자연 생식 한 끼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
